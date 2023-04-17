@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mogili Manikanta</h1>
 <h3 align="center">A passionate Computer Science Student from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/search?q=software+engineer+animated+coding+gif&tbm=isch&ved=2ahUKEwjb9-3Y1LD-AhVU9XMBHR8aATsQ2-cCegQIABAA&oq=software+engineer+animated+coding+gif&gs_lcp=CgNpbWcQAzoECCMQJzoFCAAQgAQ6BggAEAgQHjoHCAAQGBCABFDwCFiaPWDGRGgAcAB4AIABsAGIAZYOkgEEMTIuNpgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=SRk9ZJuvJdTqz7sPn7SE2AM&bih=625&biw=1366&rlz=1C1RXQR_enIN1018IN1019#imgrc=YcrdU74DuJO7CM&imgdii=5nUUNEDp-6lIAM">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mogilimanikanta&label=Profile%20views&color=0e75b6&style=flat" alt="mogilimanikanta" /> </p>
 

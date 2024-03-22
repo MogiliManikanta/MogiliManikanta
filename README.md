@@ -26,6 +26,10 @@
 
 <b>&#128200; Competitive Programming</b>
 <p float="left">
-  <img height="273em"src="https://leetcard.jacoblin.cool/20481A5432?theme=light,unicorn&ext=contest"/>
-  <img height="280em"src="https://github.com/MogiliManikanta/CodeForces-Status/blob/main/output/light_card.svg"/>
+  <a href="https://leetcode.com/20481A5432/">
+    <img height="273em"src="https://leetcard.jacoblin.cool/20481A5432?theme=light,unicorn&ext=contest"/>
+  </a>
+  <a href="https://codeforces.com/profile/v20481A5432">
+    <img height="280em"src="https://github.com/MogiliManikanta/CodeForces-Status/blob/main/output/light_card.svg"/>
+  </a>
 </p>

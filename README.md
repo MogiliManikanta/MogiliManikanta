@@ -22,6 +22,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mogilimanikanta&show_icons=true&locale=en&layout=compact" alt="mogilimanikanta" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mogilimanikanta&show_icons=true&locale=en" alt="mogilimanikanta" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mogilimanikanta&" alt="mogilimanikanta" /></p>
-<p><img src="https://leetcard.jacoblin.cool/20481A5432?theme=light,unicorn&ext=contest"/></p>
+
+<b>&#128200; Competitive Programming</b>
+<p float="left">
+  <img src="https://leetcard.jacoblin.cool/20481A5432?theme=light,unicorn&ext=contest"/>
+  <img height="300em"src="https://github.com/MogiliManikanta/CodeForces-Status/blob/main/output/light_card.svg"/>
+</p>
